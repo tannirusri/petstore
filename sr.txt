@@ -1,0 +1,11 @@
+http://thetestingworldapi.com/api/studentsDetails/{id}
+
+http://thetestingworldapi.com/api/studentsDetails/{id}
+
+http://thetestingworldapi.com/api/studentsDetails	
+
+http://thetestingworldapi.com/api/studentsDetails/{id}
+
+
+https://www.vrbo.com/20003003ha?unitId=3716025&cid=l_ha3pd-affiliate-6_&adultsCount=5&gx-currency=USD&CID=a_ph_6&utm_source=aff_ph&utm_medium=partner&utm_campaign=hometogo_1101l252&utm_content=0&k_clickid=1011l6sh49yx&arrival=2019-09-14&departure=2019-09-15&childrenCount=1
+
